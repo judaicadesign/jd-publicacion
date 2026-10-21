@@ -1,0 +1,844 @@
+{
+  "updated": "2026-10-14",
+  "chapters": [
+    {
+      "chapter": 1,
+      "hebrew": "FINAL: seis pesukim con meteg/nikkud ArtScroll, representación editorial del tetragrama יְיָ",
+      "phonetic": "FINAL: fonética cotejada independientemente con nikud, meteg y rayitas de ArtScroll.",
+      "engine": "6/6 pesukim y capítulo de corrido coinciden exactamente con la fonética final.",
+      "approved": true,
+      "source": "IMG_1457.png",
+      "scope": "1–6 completos",
+      "secondReview": "Cierre editorial integral registrado en ARTSCROLL_001_REVISION.json.",
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "approvedDate": "2026-10-09",
+      "visualCoverageComplete": true
+    },
+    {
+      "chapter": 2,
+      "hebrew": "FINAL: 12 pesukim cotejados íntegramente con ArtScroll, 21 meteg, rayitas de shevá y puntuación",
+      "phonetic": "FINAL: lectura cotejada y confirmada por usuario; יְיָ → Ad-nai",
+      "engine": "12/12 versículos y capítulo de corrido coinciden exactamente",
+      "approved": true,
+      "source": "IMG_1458.png",
+      "scope": "1–12 completos; 21 meteg y 10 rayitas de shevá na registrados por fuente",
+      "secondReview": "ARTSCROLL_002_REVISION.json · cierre editorial integral",
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "approvedDate": "2026-10-09",
+      "visualCoverageComplete": true
+    },
+    {
+      "chapter": 3,
+      "hebrew": "FINAL: 9 pesukim, 14 meteg. ArtScroll cotejado y puntuación corregida; convención יְיָ aplicada.",
+      "phonetic": "FINAL: 9 pesukim cotejados por palabra y shevá na; puntuación correspondiente; se conserva la capitalización editorial de 3:9.",
+      "engine": "Comparación por pasuk realizada: 8/9 iguales en texto; en 3:9 hay diferencias de capitalización editorial para 'Amejá Virjateja. Seguimiento del generador independiente.",
+      "approved": true,
+      "source": "IMG_1459.png",
+      "scope": "Captura original ArtScroll recuperada; hebreo y fonética cotejados y aprobados, con REVISION_003_REVISION.json publicado.",
+      "secondReview": "Registro de 3 rayitas explícitas (3:1 מִפְּנֵי, 3:3 אֹמְרִים, 3:6 יִסְמְכֵֽנִ) y confirmación de 3:2 רַבּוּ sin meteg.",
+      "lastFocusedReview": "2026-10-10",
+      "editorialNext": "Ninguno. Hebreo y fonética FINAL. Cualquier divergencia tipográfica del generador se revisa por separado.",
+      "visualEvidenceCurrentSession": "Captura(s) IMG originales recuperadas en Biblioteca; registro ARTSCROLL_003_REVISION.json aprobado; 4 exportaciones FINAL verificadas.",
+      "userConfirmations20261010": [
+        {
+          "ref": "3:2",
+          "word": "רַבּוּ",
+          "meteg": "absent",
+          "status": "confirmedByUser",
+          "date": "2026-10-10",
+          "source": "user+ArtScroll image"
+        }
+      ],
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "approvedDate": "2026-10-10",
+      "visualCoverageComplete": true
+    },
+    {
+      "chapter": 4,
+      "hebrew": "FINAL: 9 pesukim, 13 meteg, nikud y puntuación cotejados en ArtScroll.",
+      "phonetic": "FINAL: nueve versículos cotejados palabra por palabra, rayitas de shevá explícitas respetadas.",
+      "engine": "9/9 coincidencias con fonética FINAL tras incorporar puntuación.",
+      "approved": true,
+      "source": "IMG_1460.png",
+      "scope": "Captura original ArtScroll recuperada; hebreo y fonética cotejados y aprobados, con REVISION_004_REVISION.json publicado.",
+      "secondReview": "Rayitas explícitas de 4:5 אִמְרוּ, 4:7 אֹמְרִים, 4:9 אֶשְׁכְּבָה. Ausencia rayitas en 4:5 בִלְבַבְכֶם, מִשְׁכַּבְכֶם (confirmada previamente).",
+      "lastFocusedReview": "2026-10-10",
+      "editorialNext": "Ninguno; ambos másters FINAL.",
+      "visualEvidenceCurrentSession": "Captura(s) IMG originales recuperadas en Biblioteca; registro ARTSCROLL_004_REVISION.json aprobado; 4 exportaciones FINAL verificadas.",
+      "userConfirmations20261010": [],
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "approvedDate": "2026-10-10",
+      "visualCoverageComplete": true
+    },
+    {
+      "chapter": 5,
+      "hebrew": "FINAL: 13 pesukim, 22 meteg, puntuación y nikud cotejados con ArtScroll.",
+      "phonetic": "FINAL: 13 pesukim cotejados; 6 rayitas de shevá na separadas, y dos ausencias de meteg confirmadas.",
+      "engine": "13/13 pesukim coinciden con la fonética FINAL.",
+      "approved": true,
+      "source": "IMG_1462.png",
+      "scope": "Captura original ArtScroll recuperada; hebreo y fonética cotejados y aprobados, con REVISION_005_REVISION.json publicado.",
+      "secondReview": "Rayitas documentadas en 5:6, 5:7, 5:9, 5:11, 5:12 y 5:13. 5:4 וַאֲצַפֶּה y 5:9 לְפָנַי sin meteg confirmados.",
+      "lastFocusedReview": "2026-10-10",
+      "editorialNext": "Ninguno: ambos másters FINAL.",
+      "visualEvidenceCurrentSession": "Captura(s) IMG originales recuperadas en Biblioteca; registro ARTSCROLL_005_REVISION.json aprobado; 4 exportaciones FINAL verificadas.",
+      "userConfirmations20261010": [
+        {
+          "ref": "5:4",
+          "word": "וַאֲצַפֶּה",
+          "meteg": "absent",
+          "status": "confirmedByUser",
+          "date": "2026-10-10",
+          "source": "user+ArtScroll image"
+        },
+        {
+          "ref": "5:9",
+          "word": "לְפָנַי",
+          "meteg": "absent",
+          "status": "confirmedByUser",
+          "date": "2026-10-10",
+          "source": "user+ArtScroll image"
+        }
+      ],
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "approvedDate": "2026-10-10",
+      "visualCoverageComplete": true
+    },
+    {
+      "chapter": 6,
+      "hebrew": "FINAL: 11 pesukim, 21 meteg, incluido 6:7 לַֽיְלָה. Nikud y puntuación cotejados.",
+      "phonetic": "FINAL: 11 pesukim cotejados; 6:7 beanjatí sin meteg en ח ni rayita en נ, confirmado.",
+      "engine": "11/11 pesukim coinciden con el generador tras incorporar la puntuación.",
+      "approved": true,
+      "source": "IMG_1463.png",
+      "scope": "Captura original ArtScroll recuperada; hebreo y fonética cotejados y aprobados, con REVISION_006_REVISION.json publicado.",
+      "secondReview": "Meteg 6:7 en primera ל confirmado por usuario; 5 rayitas de shevá na documentadas, ausencia de marca en בְּאַנְחָתִי confirmada.",
+      "lastFocusedReview": "2026-10-10",
+      "editorialNext": "Ninguno: ambos másters FINAL.",
+      "visualEvidenceCurrentSession": "Captura(s) IMG originales recuperadas en Biblioteca; registro ARTSCROLL_006_REVISION.json aprobado; 4 exportaciones FINAL verificadas.",
+      "userConfirmations20261010": [
+        {
+          "ref": "6:7",
+          "word": "לַֽיְלָה",
+          "meteg": "firstLamed",
+          "status": "confirmedByUser",
+          "date": "2026-10-10",
+          "source": "user+ArtScroll image"
+        }
+      ],
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "approvedDate": "2026-10-10",
+      "visualCoverageComplete": true
+    },
+    {
+      "chapter": 7,
+      "hebrew": "FINAL: 18 pesukim cotejados en ambas capturas de ArtScroll, 19 meteg, puntuación corregida.",
+      "phonetic": "FINAL: 18 pesukim cotejados; 7:1 דִּבְרֵי = diveré por shevá na visual. 7:5 y 7:18 sin meteg confirmados.",
+      "engine": "17/18 coinciden con el generador; 7:1 diveré vs divré es tarea pendiente del motor, no del máster.",
+      "approved": true,
+      "source": "IMG_1464.png",
+      "scope": "Captura original ArtScroll recuperada; hebreo y fonética cotejados y aprobados, con REVISION_007_REVISION.json publicado.",
+      "secondReview": "Cuatro rayitas explícitas registradas (7:1, 7:3, 7:8, 7:10); ausencia meteg en 7:5 y 7:18 confirmada.",
+      "lastFocusedReview": "2026-10-10",
+      "editorialNext": "Ninguno para los dos másters. Corregir generador 7:1 דִּבְרֵי independientemente.",
+      "visualEvidenceCurrentSession": "Captura(s) IMG originales recuperadas en Biblioteca; registro ARTSCROLL_007_REVISION.json aprobado; 4 exportaciones FINAL verificadas.",
+      "userConfirmations20261010": [
+        {
+          "ref": "7:5",
+          "word": "וָאֲחַלְּצָה",
+          "meteg": "absent",
+          "status": "confirmedByUser",
+          "date": "2026-10-10",
+          "source": "user+ArtScroll image"
+        },
+        {
+          "ref": "7:18",
+          "word": "וַאֲזַמְּרָה",
+          "meteg": "absent",
+          "status": "confirmedByUser",
+          "date": "2026-10-10",
+          "source": "user+ArtScroll image"
+        }
+      ],
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "approvedDate": "2026-10-10",
+      "visualCoverageComplete": true
+    },
+    {
+      "chapter": 8,
+      "hebrew": "20 meteg incorporados en los pesukim visibles. Rayitas de shevá registradas por separado. Cotejo exhaustivo pendiente.",
+      "phonetic": "Actualizada y comprobada contra el motor; revisión editorial abierta.",
+      "engine": "10 pesukim comprobados",
+      "approved": false,
+      "source": "IMG_1466.png",
+      "scope": "Captura completa disponible; marcas dudosas siguen pendientes",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta."
+    },
+    {
+      "chapter": 9,
+      "hebrew": "Capturas cotejadas 9:17–21. 6 marcas transcritas en esta tanda. Casos pendientes documentados en el informe.",
+      "phonetic": "Regenerada con los datos visuales y comprobada contra el motor; aprobación editorial abierta.",
+      "engine": "21 pesukim comprobados",
+      "approved": false,
+      "source": "IMG_1468.png",
+      "scope": "Cobertura completa disponible; pendientes específicos en el informe",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta."
+    },
+    {
+      "chapter": 10,
+      "hebrew": "Capturas cotejadas 10:1–18. 22 marcas transcritas en esta tanda. Casos pendientes documentados en el informe.",
+      "phonetic": "Regenerada con los datos visuales y comprobada contra el motor; aprobación editorial abierta.",
+      "engine": "18 pesukim comprobados",
+      "approved": false,
+      "source": "IMG_1469.png, IMG_1470.png",
+      "scope": "Cobertura completa disponible; pendientes específicos en el informe",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta."
+    },
+    {
+      "chapter": 11,
+      "hebrew": "FINAL: 7 pesukim. Reconstruido desde captura ArtScroll: nikud, dagesh, rafé, meteg, paseq y puntuación; יי donde ArtScroll imprime el Nombre.",
+      "phonetic": "FINAL: 7 pesukim generados por reglas desde el hebreo FINAL (shevá na por rafé, meteg = acento); יְיָ → Ad-nai.",
+      "engine": "PASS regresiones del generador fonetica-hebreo commit 063b1252",
+      "approved": true,
+      "source": "ArtScroll · captura del usuario (14/10/2026)",
+      "scope": "Capítulo íntegro.",
+      "secondReview": "ARTSCROLL_011_REVISION.json",
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "spanishApproved": false,
+      "approvedDate": "2026-10-14",
+      "visualCoverageComplete": true,
+      "finalFiles": [
+        "TEHILIM_011_HEBREO_FINAL_continuous.txt",
+        "TEHILIM_011_HEBREO_FINAL_numbered.txt",
+        "TEHILIM_011_FONETICA_FINAL_continuous.txt",
+        "TEHILIM_011_FONETICA_FINAL_numbered.txt"
+      ]
+    },
+    {
+      "chapter": 12,
+      "hebrew": "Capturas cotejadas 12:1–9. 16 marcas transcritas en esta tanda. Casos pendientes documentados en el informe.",
+      "phonetic": "Regenerada con los datos visuales y comprobada contra el motor; aprobación editorial abierta.",
+      "engine": "9 pesukim comprobados",
+      "approved": false,
+      "source": "IMG_1472.png",
+      "scope": "Cobertura completa disponible; pendientes específicos en el informe",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta."
+    },
+    {
+      "chapter": 13,
+      "hebrew": "Capturas cotejadas 13:1–6. 0 marcas transcritas en esta tanda. Casos pendientes documentados en el informe.",
+      "phonetic": "Regenerada con los datos visuales y comprobada contra el motor; aprobación editorial abierta.",
+      "engine": "6 pesukim comprobados",
+      "approved": false,
+      "source": "IMG_1473.png",
+      "scope": "Cobertura completa disponible; pendientes específicos en el informe",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta."
+    },
+    {
+      "chapter": 14,
+      "hebrew": "FINAL: 7 pesukim. Reconstruido desde captura ArtScroll: nikud, dagesh, rafé, meteg, paseq y puntuación; יי donde ArtScroll imprime el Nombre.",
+      "phonetic": "FINAL: 7 pesukim generados por reglas desde el hebreo FINAL (shevá na por rafé, meteg = acento); יְיָ → Ad-nai.",
+      "engine": "PASS regresiones del generador fonetica-hebreo commit 063b1252",
+      "approved": true,
+      "source": "ArtScroll · captura del usuario (14/10/2026)",
+      "scope": "Capítulo íntegro.",
+      "secondReview": "ARTSCROLL_014_REVISION.json",
+      "confirmations20261011": [
+        {
+          "ref": "14:3",
+          "hebrew": "עֹֽשֵׂה",
+          "phonetic": "'ose",
+          "source": "user + ArtScroll screenshot IMG_1474.png",
+          "status": "confirmed",
+          "record": "ARTSCROLL_014_CONFIRMACION_20261011.json"
+        },
+        {
+          "ref": "14:3",
+          "kind": "punctuation",
+          "marks": [
+            "סָר,",
+            "נֶאֱלָֽחוּ;",
+            "טוֹב,"
+          ],
+          "source": "IMG_1474.png visual (Library)",
+          "status": "confirmed",
+          "record": "ARTSCROLL_014_CONFIRMACION_20261011.json"
+        }
+      ],
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "spanishApproved": false,
+      "approvedDate": "2026-10-14",
+      "visualCoverageComplete": true,
+      "visualEvidenceCurrentSession": "IMG_1547.png adjuntada por usuario 11/10/2026; todos los versículos visibles.",
+      "finalFiles": [
+        "TEHILIM_014_HEBREO_FINAL_continuous.txt",
+        "TEHILIM_014_HEBREO_FINAL_numbered.txt",
+        "TEHILIM_014_FONETICA_FINAL_continuous.txt",
+        "TEHILIM_014_FONETICA_FINAL_numbered.txt"
+      ]
+    },
+    {
+      "chapter": 15,
+      "hebrew": "Capturas cotejadas 15:1–5. 7 marcas transcritas en esta tanda. Casos pendientes documentados en el informe.",
+      "phonetic": "Regenerada con los datos visuales y comprobada contra el motor; aprobación editorial abierta.",
+      "engine": "5 pesukim comprobados",
+      "approved": false,
+      "source": "IMG_1475.png",
+      "scope": "Cobertura completa disponible; pendientes específicos en el informe",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta."
+    },
+    {
+      "chapter": 16,
+      "hebrew": "FINAL: 11 pesukim. Reconstruido desde captura ArtScroll: nikud, dagesh, rafé, meteg, paseq y puntuación; יי donde ArtScroll imprime el Nombre.",
+      "phonetic": "FINAL: 11 pesukim generados por reglas desde el hebreo FINAL (shevá na por rafé, meteg = acento); יְיָ → Ad-nai.",
+      "engine": "PASS regresiones del generador fonetica-hebreo commit 063b1252",
+      "approved": true,
+      "source": "ArtScroll · captura del usuario (14/10/2026)",
+      "scope": "Capítulo íntegro.",
+      "secondReview": "ARTSCROLL_016_REVISION.json",
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "spanishApproved": false,
+      "approvedDate": "2026-10-14",
+      "visualCoverageComplete": true,
+      "finalFiles": [
+        "TEHILIM_016_HEBREO_FINAL_continuous.txt",
+        "TEHILIM_016_HEBREO_FINAL_numbered.txt",
+        "TEHILIM_016_FONETICA_FINAL_continuous.txt",
+        "TEHILIM_016_FONETICA_FINAL_numbered.txt"
+      ]
+    },
+    {
+      "chapter": 17,
+      "hebrew": "Cobertura visual completa disponible. Cotejo registrado en REVISION_APP_017-020.html; marcas de esta tanda implementadas.",
+      "phonetic": "Regenerada y comprobada contra el motor. Aprobación editorial integral aún abierta.",
+      "engine": "15 pesukim con contexto registrado",
+      "approved": false,
+      "source": "IMG_1479.png, IMG_1484.png, IMG_1478(1).png",
+      "scope": "1–15",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta.",
+      "visualCoverageComplete": true
+    },
+    {
+      "chapter": 18,
+      "hebrew": "Cobertura visual completa disponible. Cotejo registrado en REVISION_APP_017-020.html; marcas de esta tanda implementadas.",
+      "phonetic": "Regenerada y comprobada contra el motor. Aprobación editorial integral aún abierta.",
+      "engine": "51 pesukim con contexto registrado",
+      "scope": "1–51",
+      "source": "IMG_1485.png, IMG_1486.png, IMG_1487.png, IMG_1488.png",
+      "visualCoverageComplete": true,
+      "approved": false
+    },
+    {
+      "chapter": 19,
+      "hebrew": "Cobertura visual completa disponible. Cotejo registrado en REVISION_APP_017-020.html; marcas de esta tanda implementadas.",
+      "phonetic": "Regenerada y comprobada contra el motor. Aprobación editorial integral aún abierta.",
+      "engine": "15 pesukim con contexto registrado",
+      "scope": "1–15",
+      "source": "IMG_1489.png",
+      "visualCoverageComplete": true,
+      "approved": false
+    },
+    {
+      "chapter": 20,
+      "hebrew": "Cobertura visual completa disponible. Cotejo registrado en REVISION_APP_017-020.html; marcas de esta tanda implementadas.",
+      "phonetic": "Regenerada y comprobada contra el motor. Aprobación editorial integral aún abierta.",
+      "engine": "10 pesukim con contexto registrado",
+      "approved": false,
+      "source": "IMG_1483.png",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta.",
+      "scope": "1–10",
+      "visualCoverageComplete": true
+    },
+    {
+      "chapter": 23,
+      "hebrew": "Cotejado con ArtScroll",
+      "phonetic": "Revisada; coincide con el generador",
+      "engine": "Verificado contra master: todos los pesukim coinciden",
+      "approved": false,
+      "source": "IMG_1333(1).png · ArtScroll app · Tehilim 23",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta."
+    },
+    {
+      "chapter": 63,
+      "hebrew": "FINAL: 12 pesukim. Reconstruido desde captura ArtScroll: nikud, dagesh, rafé, meteg, paseq y puntuación; יי donde ArtScroll imprime el Nombre.",
+      "phonetic": "FINAL: 12 pesukim generados por reglas desde el hebreo FINAL (shevá na por rafé, meteg = acento); יְיָ → Ad-nai.",
+      "engine": "PASS regresiones del generador fonetica-hebreo commit 063b1252",
+      "approved": true,
+      "source": "ArtScroll · captura del usuario (14/10/2026)",
+      "scope": "Capítulo íntegro.",
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "spanishApproved": false,
+      "approvedDate": "2026-10-14",
+      "visualCoverageComplete": true,
+      "secondReview": "ARTSCROLL_063_REVISION.json",
+      "finalFiles": [
+        "TEHILIM_063_HEBREO_FINAL_continuous.txt",
+        "TEHILIM_063_HEBREO_FINAL_numbered.txt",
+        "TEHILIM_063_FONETICA_FINAL_continuous.txt",
+        "TEHILIM_063_FONETICA_FINAL_numbered.txt"
+      ]
+    },
+    {
+      "chapter": 76,
+      "hebrew": "FINAL: 13 pesukim. Reconstruido desde captura ArtScroll: nikud, dagesh, rafé, meteg, paseq y puntuación; יי donde ArtScroll imprime el Nombre.",
+      "phonetic": "FINAL: 13 pesukim generados por reglas desde el hebreo FINAL (shevá na por rafé, meteg = acento); יְיָ → Ad-nai.",
+      "engine": "PASS regresiones del generador fonetica-hebreo commit 063b1252",
+      "approved": true,
+      "source": "ArtScroll · captura del usuario (14/10/2026)",
+      "scope": "Capítulo íntegro.",
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "spanishApproved": false,
+      "approvedDate": "2026-10-14",
+      "visualCoverageComplete": true,
+      "secondReview": "ARTSCROLL_076_REVISION.json",
+      "finalFiles": [
+        "TEHILIM_076_HEBREO_FINAL_continuous.txt",
+        "TEHILIM_076_HEBREO_FINAL_numbered.txt",
+        "TEHILIM_076_FONETICA_FINAL_continuous.txt",
+        "TEHILIM_076_FONETICA_FINAL_numbered.txt"
+      ]
+    },
+    {
+      "chapter": 83,
+      "hebrew": "FINAL: 19 pesukim. Reconstruido desde captura ArtScroll: nikud, dagesh, rafé, meteg, paseq y puntuación; יי donde ArtScroll imprime el Nombre.",
+      "phonetic": "FINAL: 19 pesukim generados por reglas desde el hebreo FINAL (shevá na por rafé, meteg = acento); יְיָ → Ad-nai.",
+      "engine": "PASS regresiones del generador fonetica-hebreo commit 063b1252",
+      "approved": true,
+      "source": "ArtScroll · captura del usuario (14/10/2026)",
+      "secondReview": "ARTSCROLL_083_REVISION.json",
+      "scope": "Capítulo íntegro.",
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "spanishApproved": false,
+      "approvedDate": "2026-10-14",
+      "visualCoverageComplete": true,
+      "finalFiles": [
+        "TEHILIM_083_HEBREO_FINAL_continuous.txt",
+        "TEHILIM_083_HEBREO_FINAL_numbered.txt",
+        "TEHILIM_083_FONETICA_FINAL_continuous.txt",
+        "TEHILIM_083_FONETICA_FINAL_numbered.txt"
+      ]
+    },
+    {
+      "chapter": 84,
+      "hebrew": "FINAL: 13 pesukim. Reconstruido desde captura ArtScroll: nikud, dagesh, rafé, meteg, paseq y puntuación; יי donde ArtScroll imprime el Nombre.",
+      "phonetic": "FINAL: 13 pesukim generados por reglas desde el hebreo FINAL (shevá na por rafé, meteg = acento); יְיָ → Ad-nai.",
+      "engine": "PASS regresiones del generador fonetica-hebreo commit 063b1252",
+      "approved": true,
+      "source": "ArtScroll · captura del usuario (14/10/2026)",
+      "scope": "Capítulo íntegro.",
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "spanishApproved": false,
+      "approvedDate": "2026-10-14",
+      "visualCoverageComplete": true,
+      "secondReview": "ARTSCROLL_084_REVISION.json",
+      "finalFiles": [
+        "TEHILIM_084_HEBREO_FINAL_continuous.txt",
+        "TEHILIM_084_HEBREO_FINAL_numbered.txt",
+        "TEHILIM_084_FONETICA_FINAL_continuous.txt",
+        "TEHILIM_084_FONETICA_FINAL_numbered.txt"
+      ]
+    },
+    {
+      "chapter": 91,
+      "hebrew": "Meteg cotejado e incorporado: 35 marcas. Nikud: cambios documentados.",
+      "phonetic": "Acentos y referencias a Hashem revisados; texto disponible para revisión editorial final.",
+      "engine": "Verificado por pasuk contra el master actualizado",
+      "approved": false,
+      "source": "ARTSCROLL - tehillim-and-avinu-malkeinu-download-v3(1).pdf",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta."
+    },
+    {
+      "chapter": 112,
+      "hebrew": "Meteg cotejado e incorporado: 7 marcas. Nikud: cambios documentados.",
+      "phonetic": "Acentos y referencias a Hashem revisados; texto disponible para revisión editorial final.",
+      "engine": "Verificado por pasuk contra el master actualizado",
+      "approved": false,
+      "source": "ARTSCROLL - tehillim-and-avinu-malkeinu-download-v3(1).pdf",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta."
+    },
+    {
+      "chapter": 120,
+      "hebrew": "Meteg cotejado e incorporado: 10 marcas. Nikud: cambios documentados.",
+      "phonetic": "Acentos y referencias a Hashem revisados; texto disponible para revisión editorial final.",
+      "engine": "Verificado por pasuk contra el master actualizado",
+      "approved": false,
+      "source": "ARTSCROLL - tehillim-and-avinu-malkeinu-download-v3(1).pdf",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta."
+    },
+    {
+      "chapter": 121,
+      "hebrew": "Meteg cotejado e incorporado: 12 marcas. Nikud: cambios documentados.",
+      "phonetic": "Acentos y referencias a Hashem revisados; texto disponible para revisión editorial final.",
+      "engine": "Verificado por pasuk contra el master actualizado",
+      "approved": false,
+      "source": "ARTSCROLL - Transliterated_Tehillim_Eretz_Yisrael(1).pdf",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta."
+    },
+    {
+      "chapter": 126,
+      "hebrew": "FINAL: 6 pesukim. ArtScroll captura original + PDF idéntico al cotejado el 9/10; consonantes, nikud, dagesh, meteg, rayitas y puntuación revisadas.",
+      "phonetic": "FINAL: 6 pesukim. Se conservaron lecturas aprobadas de shevá; fonética JD cotejada palabra por palabra y verificada con el generador.",
+      "engine": "PASS 6/6 versículos, Unicode NFC y NFD. La suite global todavía contiene expectativas históricas anteriores en 2:3 y posiblemente otros; no corresponde a 126.",
+      "approved": true,
+      "source": "ArtScroll Interlinear Benching · PDF page 2",
+      "scope": "Capítulo íntegro. Todas las marcas de ArtScroll preservadas del cotejo previo; puntuación corregida desde captura.",
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "spanishApproved": false,
+      "approvedDate": "2026-10-11",
+      "lastFocusedReview": "2026-10-11",
+      "visualCoverageComplete": true,
+      "visualEvidenceCurrentSession": "IMG_1529.png + ArtScroll Benching PDF p. 2 (mismo SHA-256 del cotejo anterior).",
+      "finalFiles": [
+        "TEHILIM_126_HEBREO_FINAL_continuous.txt",
+        "TEHILIM_126_HEBREO_FINAL_numbered.txt",
+        "TEHILIM_126_FONETICA_FINAL_continuous.txt",
+        "TEHILIM_126_FONETICA_FINAL_numbered.txt"
+      ]
+    },
+    {
+      "chapter": 127,
+      "hebrew": "Meteg cotejado e incorporado: 9 marcas. Nikud: cambios documentados.",
+      "phonetic": "Acentos y referencias a Hashem revisados; texto disponible para revisión editorial final.",
+      "engine": "Verificado por pasuk contra el master actualizado",
+      "approved": false,
+      "source": "ARTSCROLL - tehillim-and-avinu-malkeinu-download-v3(1).pdf",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta."
+    },
+    {
+      "chapter": 130,
+      "hebrew": "FINAL: 8 pesukim. Reconstruido desde captura ArtScroll: nikud, dagesh, rafé, meteg, paseq y puntuación; יי donde ArtScroll imprime el Nombre.",
+      "phonetic": "FINAL: 8 pesukim generados por reglas desde el hebreo FINAL (shevá na por rafé, meteg = acento); יְיָ → Ad-nai.",
+      "engine": "PASS regresiones del generador fonetica-hebreo commit 063b1252",
+      "approved": true,
+      "source": "ArtScroll · captura del usuario (14/10/2026)",
+      "secondReview": "ARTSCROLL_130_REVISION.json",
+      "scope": "Capítulo íntegro.",
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "spanishApproved": false,
+      "approvedDate": "2026-10-14",
+      "visualCoverageComplete": true,
+      "finalFiles": [
+        "TEHILIM_130_HEBREO_FINAL_continuous.txt",
+        "TEHILIM_130_HEBREO_FINAL_numbered.txt",
+        "TEHILIM_130_FONETICA_FINAL_continuous.txt",
+        "TEHILIM_130_FONETICA_FINAL_numbered.txt"
+      ]
+    },
+    {
+      "chapter": 137,
+      "hebrew": "FINAL: 9 pesukim. ArtScroll captura original + PDF idéntico al cotejado el 9/10; consonantes, nikud, dagesh, meteg, rayitas y puntuación revisadas.",
+      "phonetic": "FINAL: 9 pesukim. Se conservaron lecturas aprobadas de shevá; fonética JD cotejada palabra por palabra y verificada con el generador.",
+      "engine": "PASS 9/9 versículos, Unicode NFC y NFD. La suite global todavía contiene expectativas históricas anteriores en 2:3 y posiblemente otros; no corresponde a 137.",
+      "approved": true,
+      "source": "ArtScroll Interlinear Benching · PDF page 1",
+      "scope": "Capítulo íntegro. Todas las marcas de ArtScroll preservadas del cotejo previo; puntuación corregida desde captura.",
+      "hebrewApproved": true,
+      "phoneticApproved": true,
+      "spanishApproved": false,
+      "approvedDate": "2026-10-11",
+      "lastFocusedReview": "2026-10-11",
+      "visualCoverageComplete": true,
+      "visualEvidenceCurrentSession": "IMG_1530.png + ArtScroll Benching PDF p. 1 (mismo SHA-256 del cotejo anterior).",
+      "finalFiles": [
+        "TEHILIM_137_HEBREO_FINAL_continuous.txt",
+        "TEHILIM_137_HEBREO_FINAL_numbered.txt",
+        "TEHILIM_137_FONETICA_FINAL_continuous.txt",
+        "TEHILIM_137_FONETICA_FINAL_numbered.txt"
+      ],
+      "postFinalAccentCorrection": {
+        "date": "2026-10-11",
+        "verses": [
+          1,
+          8
+        ],
+        "before": "Bável",
+        "corrected": "Bavél",
+        "reason": "Revia on second bet of בָּבֶ֗ל: stress final; targeted regression passed",
+        "masterFinal": true
+      }
+    },
+    {
+      "chapter": 142,
+      "hebrew": "Meteg cotejado e incorporado: 14 marcas. Nikud: cambios documentados.",
+      "phonetic": "Acentos y referencias a Hashem revisados; texto disponible para revisión editorial final.",
+      "engine": "Verificado por pasuk contra el master actualizado",
+      "approved": false,
+      "source": "ARTSCROLL - Transliterated_Tehillim_Eretz_Yisrael(1).pdf",
+      "secondReview": "Segundo cotejo registrado. Ver SEGUNDO_COTEJO.html; aprobación editorial abierta."
+    }
+  ],
+  "pdfQueue": [
+    {
+      "source": "ArtScroll Interlinear Tehillim / Avinu Malkeinu",
+      "chapters": [
+        13,
+        20,
+        91,
+        112,
+        120,
+        127,
+        130
+      ],
+      "status": "Cotejo de meteg completado e incorporado; aprobación editorial final pendiente"
+    },
+    {
+      "source": "ArtScroll Transliterated Tehillim Eretz Yisrael",
+      "chapters": [
+        20,
+        83,
+        121,
+        130,
+        142
+      ],
+      "status": "Cotejo de meteg completado e incorporado; aprobación editorial final pendiente"
+    }
+  ],
+  "remaining": "17 de 150 capítulos tienen HEBREO y FONÉTICA FINAL (1, 2, 3, 4, 5, 6, 7, 11, 14, 16, 63, 76, 83, 84, 126, 130, 137). Los otros 133 siguen en revisión; el español se aprobará por separado.",
+  "secondReview": {
+    "date": "2026-10-09",
+    "report": "SEGUNDO_COTEJO.html",
+    "changedVerses": 40,
+    "scope": "Veinte capturas 1–17, captura 23 y PDF disponibles; PDF original 126/137 recibido y nuevamente cotejado."
+  },
+  "userConfirmation20261009": {
+    "report": "ARTSCROLL_CONFIRMACION_20261009.json",
+    "scope": "Confirmación de palabras, no aprobación de salmos completos",
+    "confirmed": [
+      "9:20 yishafetú",
+      "12:4 sifté",
+      "16:2 Amart",
+      "18:1,19:1,20:1 Lamenatséaj"
+    ]
+  },
+  "silentShevaConfirmation": {
+    "date": "2026-10-09",
+    "confirmedByUser": "Sin rayita sobre ב en בִלְבַבְכֶם y מִשְׁכַּבְכֶם (4:5), ni sobre נ en בְּאַנְחָתִי (6:7).",
+    "visualRecheck": "IMG_1463.png: no hay meteg junto al kamatz de ח en בְּאַנְחָתִי. Se retiró la marca introducida erróneamente.",
+    "reading": "be-an-ja-TÍ → beanjatí",
+    "beforeHebrew": "יָגַֽעְתִּי בְּאַנְחָֽתִי אַשְׂחֶה בְכׇל לַיְלָה מִטָּֽתִי בְּדִמְעָתִי עַרְשִׂי אַמְסֶה.",
+    "afterHebrew": "יָגַֽעְתִּי בְּאַנְחָתִי אַשְׂחֶה בְכׇל לַיְלָה מִטָּֽתִי בְּדִמְעָתִי עַרְשִׂי אַמְסֶה.",
+    "beforePhonetic": "Yaga'ti beanjati asjé vejol laila mitati bedim'atí 'arsí amsé.",
+    "afterPhonetic": "Yaga'ti beanjatí asjé vejol laila mitati bedim'atí 'arsí amsé.",
+    "scope": "Confirmación de palabras; no aprobación de los salmos completos."
+  },
+  "benchingRecheck": {
+    "date": "2026-10-09",
+    "source": "ArtScroll - ashkenaz bircat hamazon Interlinear Benching.pdf",
+    "sourceSha256": "f50d33123d082f5ee86161b579c38ef2818b3a49719b07a9218902ce48a6eec7",
+    "pages": {
+      "126": 2,
+      "137": 1
+    },
+    "metegConfirmed": {
+      "126": 11,
+      "137": 19
+    },
+    "shevaConfirmed": [
+      {
+        "ref": "126:2",
+        "word": "יֹאמְרוּ",
+        "letter": "מ",
+        "vocal": true
+      },
+      {
+        "ref": "126:5",
+        "word": "הַזֹּרְעִים",
+        "letter": "ר",
+        "vocal": true
+      },
+      {
+        "ref": "126:2",
+        "word": "וּלְשׁוֹנֵנוּ",
+        "letter": "ל",
+        "vocal": false
+      },
+      {
+        "ref": "137:6",
+        "word": "אֶזְכְּרֵכִי",
+        "letter": "כ",
+        "vocal": true
+      },
+      {
+        "ref": "137:8",
+        "word": "הַשְּׁדוּדָה",
+        "letter": "ש",
+        "vocal": true
+      },
+      {
+        "ref": "137:8",
+        "word": "שֶׁיְשַׁלֶּם",
+        "letter": "י",
+        "vocal": true
+      }
+    ],
+    "phoneticChanges": [
+      {
+        "ref": "126:2",
+        "before": "Az yimalé sejok pinu uleshonenu riná az yomrú vagoyim higdil Ad-nai la'asot 'im ele.",
+        "after": "Az yimalé sejok pinu ulshonenu riná az yomerú vagoyim higdil Ad-nai la'asot 'im ele."
+      },
+      {
+        "ref": "126:5",
+        "before": "Hazor'im bedim'á beriná yiktsoru.",
+        "after": "Hazore'im bedim'á beriná yiktsoru."
+      }
+    ],
+    "status": "Meteg y rayitas cotejados; aprobación editorial completa abierta."
+  },
+  "reviewBatch20261010": {
+    "chapters": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "report": "REVISION_003-007_PENDIENTES.md",
+    "finalClosed": 0,
+    "engineConsistency": {
+      "checkedVerses": 60,
+      "matchedVerses": 60,
+      "doesNotCertifyEditorialApproval": true
+    },
+    "originalCaptureAvailableNow": [
+      3
+    ],
+    "originalCaptureNeededForFinal": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "disclaimer": "Estado parcial: no se marcaron FINAL sin cotejo visual y fonético exhaustivo."
+  },
+  "corpus": {
+    "hebrewWikisourceChapters": 150,
+    "hebrewWikisourceVerses": 2527,
+    "phoneticDraftChapters": 150,
+    "sourceFile": "tehilim.json",
+    "note": "Texto obtenido ≠ hebreo FINAL. Solo el estado de cada capítulo acredita la aprobación."
+  },
+  "finalReview20261011": {
+    "date": "2026-10-11",
+    "closed": [
+      126,
+      137
+    ],
+    "numberClosedThisSession": 2,
+    "numberTotalFinal": 9,
+    "numberTotal": 150,
+    "filesFinalCreated": 8,
+    "source": "ArtScroll screenshots and matching original Benching PDF",
+    "regression": "15/15 full verses, NFC+NFD PASS",
+    "globalCI": "Prueba dirigida 126/137 PASS. Suite general falla en expectativas heredadas, 2:3 pendiente después de solucionar 2:2; no alterar masters FINAL para corregir tests."
+  },
+  "activeEditorialQueue20261011": {
+    "date": "2026-10-11",
+    "finalChapters": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      14,
+      126,
+      137
+    ],
+    "finalCount": 10,
+    "finalExportFiles": 40,
+    "nextWholeChapter": "8",
+    "wholeChaptersAwaitingIndependentFinalReview": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "historicalQuestionsResolved": [
+      {
+        "ref": "9:21",
+        "words": [
+          "שִׁיתָה",
+          "הֵֽמָּה"
+        ],
+        "source": "ARTSCROLL_008-012_AVANCE_20261011.json"
+      },
+      {
+        "ref": "10:3",
+        "word": "בֵּרֵךְ",
+        "source": "ARTSCROLL_008-012_AVANCE_20261011.json"
+      },
+      {
+        "ref": "11:3",
+        "word": "פָּעָל",
+        "source": "ARTSCROLL_008-012_AVANCE_20261011.json"
+      },
+      {
+        "ref": "14:3",
+        "word": "עֹֽשֵׂה",
+        "source": "ARTSCROLL_014_CONFIRMACION_20261011.json"
+      },
+      {
+        "ref": "14:3",
+        "kind": "punctuation",
+        "source": "ARTSCROLL_014_CONFIRMACION_20261011.json"
+      }
+    ],
+    "openFocusedQuestions": [],
+    "rules": "No alterar FINAL 1–7, 126 ni 137; hebreo FINAL y fonética FINAL requieren cotejo ArtScroll independiente, no solo coincidencia con motor.",
+    "linkedCompositions": {
+      "date": "2026-10-11",
+      "manifest": "masters/compositions/BIRKAT_HAMAZON_ASHKENAZI.json",
+      "runtime": "assets/jd-passage-links.js",
+      "ui": "Masters → Birkat Hamazón → Ashkenazí → Hebreo/Fonética",
+      "chapters": [
+        137,
+        126
+      ],
+      "headerContexts": [
+        "En días que se dice tajanún:",
+        "En Shabat, Yom Tov y en una comida de mitsvá"
+      ],
+      "safeguards": "Source FINAL checked against REVISION_ESTADO; read-only composition and explicit staging only. Existing master and printed final not rewritten automatically.",
+      "test": "tests/passage-link-regression.cjs",
+      "statuses": "Tests added to CI; verify run before claiming PASS."
+    },
+    "note": "Se incorporó Salmo 14 como FINAL tras cotejo IMG_1547.png y auditoría del generador. Los nueve FINAL previos se conservan."
+  },
+  "finalReview20261014": {
+    "date": "2026-10-14",
+    "closed": [
+      11,
+      14,
+      16,
+      63,
+      76,
+      83,
+      84,
+      130
+    ],
+    "source": "Capturas ArtScroll del usuario (8 salmos)",
+    "totalFinal": 17,
+    "generatorCommit": "063b12527ea93a8ca61d92c03e7a8cd9ab59e198",
+    "rules": "rafé U+05BF = shevá na confirmado; meteg marca acento; יהוה → יי; fonética por reglas, sin excepciones por palabra.",
+    "report": "COTEJO en fonetica-hebreo/docs/tehilim-artscroll-20261014"
+  }
+}

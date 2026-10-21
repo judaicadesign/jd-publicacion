@@ -1,0 +1,299 @@
+{
+  "project": "Judaica Design® / Tehilim",
+  "date": "2026-10-11",
+  "sourceOfTruth": "ArtScroll screenshot, Wikisource digital base, previous ArtScroll review batch and second cotejo",
+  "doNotReplaceGoldenMasters": true,
+  "stage": "Confirmaciones 9:21,10:3,11:3 incorporadas; salmos 8–12 todavía EN REVISIÓN.",
+  "screenShots": [
+    {
+      "chapter": 8,
+      "files": [
+        "IMG_1466.png"
+      ],
+      "visibleComplete": true,
+      "verses": 10
+    },
+    {
+      "chapter": 9,
+      "files": [
+        "IMG_1467.png",
+        "IMG_1468.png"
+      ],
+      "visibleComplete": true,
+      "verses": 21
+    },
+    {
+      "chapter": 10,
+      "files": [
+        "IMG_1469.png",
+        "IMG_1470.png"
+      ],
+      "visibleComplete": true,
+      "verses": 18
+    },
+    {
+      "chapter": 11,
+      "files": [
+        "IMG_1471.png"
+      ],
+      "visibleComplete": true,
+      "verses": 7
+    },
+    {
+      "chapter": 12,
+      "files": [
+        "IMG_1472.png"
+      ],
+      "visibleComplete": true,
+      "verses": 9
+    }
+  ],
+  "changes": [
+    {
+      "ref": "8:6",
+      "kind": "dagesh",
+      "before": "מְּעַט",
+      "corrected": "מְעַט",
+      "reason": "ArtScroll IMG_1466.png muestra una mem con sheva sin dagesh."
+    },
+    {
+      "ref": "8–12",
+      "kind": "nombre",
+      "before": "יְהֹוָה (incluidos prefijos)",
+      "corrected": "יְיָ (manteniendo prefijos)",
+      "reason": "Aplicación de la política editorial JD; 24 versos ajustados.",
+      "affectedVerses": [
+        "8:2",
+        "8:10",
+        "9:2",
+        "9:8",
+        "9:10",
+        "9:11",
+        "9:12",
+        "9:14",
+        "9:17",
+        "9:20",
+        "9:21",
+        "10:1",
+        "10:3",
+        "10:12",
+        "10:16",
+        "10:17",
+        "11:4",
+        "11:5",
+        "11:7",
+        "12:2",
+        "12:4",
+        "12:6",
+        "12:7",
+        "12:8"
+      ]
+    }
+  ],
+  "resolvedFromPreviousAudits": [
+    "9:19 תִּקְוַת = tikvat, sin rayita visible en ק",
+    "9:20 יִשָּׁפְטוּ rayita en פ ya confirmada",
+    "10:15 זְרוֹעַ lectura zeroa’ por shevá inicial, no rayita visiblemente certificada"
+  ],
+  "questions": [
+    {
+      "ref": "9:21",
+      "word": "שִׁיתָה",
+      "kind": "meteg/acentuación",
+      "detail": "Reexaminar marca diminuta de ArtScroll; no atribuir asterisco a meteg.",
+      "previousWord": "— inicio de pasuk",
+      "nextWord": "יְיָ",
+      "phoneticVerseInCorpus": "Shita Ad-nai morá lahem yede'ú goyim enosh hema sela.",
+      "phoneticProvisionalWord": "Shita",
+      "wordIndex": 0,
+      "source": [
+        "IMG_1467.png",
+        "IMG_1468.png"
+      ],
+      "approval": "CONFIRMADO_20261011",
+      "generatorActualWord": "Shita",
+      "generatorActualVerse": "Shita Ad-nai morá lahem yede'ú goyim enosh hema sela.",
+      "sourceOfConfirmation": "user"
+    },
+    {
+      "ref": "9:21",
+      "word": "הֵמָּה",
+      "kind": "meteg/acentuación",
+      "detail": "Reexaminar marca diminuta de ArtScroll; no presumir meteg.",
+      "previousWord": "אֱנוֹשׁ",
+      "nextWord": "סֶּלָה",
+      "phoneticVerseInCorpus": "Shita Ad-nai morá lahem yede'ú goyim enosh hema sela.",
+      "phoneticProvisionalWord": "hema",
+      "wordIndex": 7,
+      "source": [
+        "IMG_1467.png",
+        "IMG_1468.png"
+      ],
+      "approval": "CONFIRMADO_20261011",
+      "generatorActualWord": "hema",
+      "generatorActualVerse": "Shita Ad-nai morá lahem yede'ú goyim enosh hema sela.",
+      "sourceOfConfirmation": "user"
+    },
+    {
+      "ref": "10:3",
+      "word": "בֵּרֵךְ",
+      "kind": "meteg",
+      "detail": "Segundo cotejo 2026-10-09 dejó pendiente ubicación/presencia exacta en ampliación.",
+      "previousWord": "וּבֹצֵֽעַ",
+      "nextWord": "נִאֵץ",
+      "phoneticVerseInCorpus": "Ki hilel rashá' 'al taavat nafshó uvotsea' berej niéts Ad-nai.",
+      "phoneticProvisionalWord": "berej",
+      "wordIndex": 7,
+      "source": [
+        "IMG_1469.png",
+        "IMG_1470.png"
+      ],
+      "approval": "CONFIRMADO_20261011",
+      "generatorActualWord": "berej",
+      "generatorActualVerse": "Ki hilel rashá' 'al taavat nafshó uvotsea' berej niéts Ad-nai.",
+      "sourceOfConfirmation": "user"
+    },
+    {
+      "ref": "11:3",
+      "word": "פָּעָל",
+      "kind": "meteg",
+      "detail": "Segundo cotejo 2026-10-09 dejó pendiente ubicación exacta del posible meteg.",
+      "previousWord": "מַה",
+      "nextWord": "— fin de pasuk",
+      "phoneticVerseInCorpus": "Ki hashatot yeharesún tsadik ma pa'al.",
+      "phoneticProvisionalWord": "pa'al",
+      "wordIndex": 5,
+      "source": [
+        "IMG_1471.png"
+      ],
+      "approval": "CONFIRMADO_20261011",
+      "generatorActualWord": "pa'al",
+      "generatorActualVerse": "Ki hashatot yeharesún tsadik ma pa'al.",
+      "sourceOfConfirmation": "user"
+    }
+  ],
+  "masterCount": {
+    "final": 7,
+    "total": 150
+  },
+  "filesUpdated": [
+    "masters/tehilim/tehilim.json",
+    "masters/tehilim/TEHILIM_001-150_HEBREO_EN_REVISION.txt",
+    "masters/tehilim/TEHILIM_001-150_HEBREO_continuous.txt",
+    "masters/tehilim/TEHILIM_001-150_HEBREO_numbered.txt"
+  ],
+  "engine": {
+    "repository": "judaicadesign/fonetica-hebreo",
+    "generatorHead": "8abeb47346146458967d8d122fc448f62fd2be68",
+    "verifiedThroughGitHubActionsRun": "https://github.com/judaicadesign/fonetica-hebreo/actions/runs/38115902015",
+    "snapshotStep": "Snapshot exact generator output for ArtScroll 8–12",
+    "snapshotStepStatus": "success",
+    "versesCompared": 65,
+    "discrepanciesPerChapter": {
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0
+    },
+    "pendingQuestionsActualOutput": [
+      {
+        "ref": "9:21",
+        "word": "שִׁיתָה",
+        "generatorWord": "Shita",
+        "generatorVerse": "Shita Ad-nai morá lahem yede'ú goyim enosh hema sela."
+      },
+      {
+        "ref": "9:21",
+        "word": "הֵמָּה",
+        "generatorWord": "hema",
+        "generatorVerse": "Shita Ad-nai morá lahem yede'ú goyim enosh hema sela."
+      },
+      {
+        "ref": "10:3",
+        "word": "בֵּרֵךְ",
+        "generatorWord": "berej",
+        "generatorVerse": "Ki hilel rashá' 'al taavat nafshó uvotsea' berej niéts Ad-nai."
+      },
+      {
+        "ref": "11:3",
+        "word": "פָּעָל",
+        "generatorWord": "pa'al",
+        "generatorVerse": "Ki hashatot yeharesún tsadik ma pa'al."
+      }
+    ],
+    "reviewed7_1": {
+      "finalWord": "diveré",
+      "testStatus": "success",
+      "independent137_3": "divré"
+    },
+    "fullSuite": {
+      "status": "failure",
+      "source": "historical fixture tests/fixtures/artscroll-app-partial-1-9.json still has pre-FINAL 2:2 (Yityatsevú / nosedú) while current 2:2 FINAL reads Yitiatsevú / nósedu",
+      "noMasterChanged": true
+    },
+    "note": "Equality to provisional corpus is NOT GOLDEN ArtScroll linguistic approval"
+  },
+  "nextStep": "Continuar cotejo minucioso del resto de palabras, puntuación y discrepancias generador para aprobación independiente de hebreo/fonética.",
+  "resolutions20261011": [
+    {
+      "ref": "9:21",
+      "word": "שִׁיתָה",
+      "meteg": false,
+      "confirmedBy": "user",
+      "phonetic": "Shitá",
+      "evidence": "Radak: שיתה מלרע",
+      "status": "RESUELTO"
+    },
+    {
+      "ref": "9:21",
+      "word": "הֵֽמָּה",
+      "meteg": {
+        "letter": "ה",
+        "index": 0
+      },
+      "confirmedBy": "user",
+      "phonetic": "hema",
+      "phoneticStress": "HE-ma",
+      "status": "RESUELTO",
+      "accentNote": "Tilde española no necesaria en palabra llana terminada en vocal"
+    },
+    {
+      "ref": "10:3",
+      "word": "בֵּרֵךְ",
+      "meteg": false,
+      "confirmedBy": "user",
+      "phonetic": "berej",
+      "status": "RESUELTO"
+    },
+    {
+      "ref": "11:3",
+      "word": "פָּעָל",
+      "meteg": false,
+      "confirmedBy": "user",
+      "phonetic": "pa'al",
+      "status": "RESUELTO"
+    },
+    {
+      "ref": "12:2",
+      "word": "הוֹשִֽׁיעָה",
+      "meteg": {
+        "letter": "ש",
+        "index": 2
+      },
+      "phonetic": "Hoshí'a",
+      "status": "CORREGIDO_EN_CORPUS",
+      "notes": "Meteg ArtScroll y cantilación en שׁ; marca de acento explícita."
+    },
+    {
+      "ref": "20:10",
+      "word": "הוֹשִֽׁיעָה",
+      "meteg": {
+        "letter": "ש",
+        "index": 2
+      },
+      "phonetic": "hoshí'a",
+      "status": "CORREGIDO_EN_CORPUS"
+    }
+  ]
+}
